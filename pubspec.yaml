@@ -56,6 +56,7 @@ dependencies:
   appinio_video_player: ^1.2.2
   webview_flutter: ^4.5.0
   video_player: 2.7.2
+  flutter_xupdate: ^3.0.0
 
 dev_dependencies:
   flutter_test:
